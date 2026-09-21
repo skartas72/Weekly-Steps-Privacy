@@ -39,9 +39,9 @@ The App is not directed at children under 13, and it does not knowingly collect 
 
 If this policy changes, the updated version will be posted at this URL.
 
-### Contact
+### Contact & Support
 
-Questions about this policy or the App: **ipoyraz@zoho.eu** (or https://github.com/skartas72)
+For support requests, feedback or questions about this policy, email **ipoyraz@zoho.eu**. We usually reply within a few days.
 
 ---
 
@@ -82,6 +82,6 @@ Uygulama 13 yaş altındaki çocuklara yönelik değildir ve onlardan bilinçli 
 
 Bu politika değişirse güncel sürüm bu adreste yayımlanır.
 
-### İletişim
+### İletişim ve Destek
 
-Bu politika veya uygulama hakkında sorularınız için: **ipoyraz@zoho.eu** (veya https://github.com/skartas72)
+Destek talepleri, geri bildirim veya bu politika hakkındaki sorularınız için **ipoyraz@zoho.eu** adresine yazın. Genellikle birkaç gün içinde yanıtlıyoruz.
