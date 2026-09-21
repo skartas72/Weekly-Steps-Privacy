@@ -41,7 +41,7 @@ If this policy changes, the updated version will be posted at this URL.
 
 ### Contact
 
-Questions about this policy: https://github.com/skartas72
+Questions about this policy or the App: **ipoyraz@zoho.eu** (or https://github.com/skartas72)
 
 ---
 
@@ -84,4 +84,4 @@ Bu politika değişirse güncel sürüm bu adreste yayımlanır.
 
 ### İletişim
 
-Bu politika hakkında sorularınız için: https://github.com/skartas72
+Bu politika veya uygulama hakkında sorularınız için: **ipoyraz@zoho.eu** (veya https://github.com/skartas72)
