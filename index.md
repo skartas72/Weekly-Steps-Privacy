@@ -1,10 +1,10 @@
-# Privacy Policy — Weekly Steps Face
+# Privacy Policy — Weekly Steps
 
-**Effective date:** January 2026
+**Effective date:** September 2026
 
 ## English
 
-Weekly Steps Face ("the App") is an Apple Watch application that shows your step history and daily goal on your watch face.
+Weekly Steps ("the App") is an iPhone, iPad and Apple Watch application that shows your step history and daily goal in the app, in widgets and in watch face complications.
 
 ### Data we collect
 
@@ -12,15 +12,20 @@ Weekly Steps Face ("the App") is an Apple Watch application that shows your step
 
 ### Health data
 
-- The App reads your **step count** from Apple Health (HealthKit) to display the last 7 days on your watch and in its complications.
+- The App reads your **step count** from Apple Health (HealthKit) to display your recent history: the last 7 days on Apple Watch, and up to the last 12 weeks on iPhone and iPad.
 - Access is **read-only** — the App never writes to HealthKit.
-- All HealthKit data is processed **on your device only**. Nothing is transmitted anywhere.
-- You control this access at any time in the **Health app → Privacy → Apps** (Apple Watch) settings. If you revoke access, the App can no longer read steps.
+- All HealthKit data is processed **on your device only**. Nothing is transmitted to us or to any third party.
+- You control this access at any time in the **Health app → Privacy → Apps** settings (on iPhone, or in the Apple Watch app). If you revoke access, the App can no longer read steps.
 
 ### Local storage
 
-- The App stores a copy of your recent 7 days of steps and your daily goal in the App's local storage (App Group container) so that complications can display them without re-querying HealthKit.
+- The App stores a copy of your recent step history and your daily goal in the App's local storage (App Group container) so that widgets and complications can display them without re-querying HealthKit.
 - This data stays on your device and is not sent anywhere.
+
+### Sync between your iPhone and Apple Watch
+
+- Your **daily goal** is synced directly between your iPhone and your paired Apple Watch using Apple's WatchConnectivity framework.
+- This transfer happens device-to-device through Apple's system services; no server of ours is involved and no step data is transferred this way.
 
 ### Sharing
 
@@ -42,7 +47,7 @@ Questions about this policy: https://github.com/skartas72
 
 ## Türkçe
 
-Weekly Steps Face ("Uygulama"), adım geçmişinizi ve günlük hedefinizi saat yüzünüzde gösteren bir Apple Watch uygulamasıdır.
+Weekly Steps ("Uygulama"), adım geçmişinizi ve günlük hedefinizi uygulamada, widget'larda ve saat yüzü complication'larında gösteren bir iPhone, iPad ve Apple Watch uygulamasıdır.
 
 ### Topladığımız veriler
 
@@ -50,15 +55,20 @@ Weekly Steps Face ("Uygulama"), adım geçmişinizi ve günlük hedefinizi saat 
 
 ### Sağlık verileri
 
-- Uygulama, son 7 günü saatinde ve complication'larında göstermek için Apple Sağlık'tan (HealthKit) yalnızca **adım sayınızı** okur.
+- Uygulama, yakın geçmişinizi göstermek için Apple Sağlık'tan (HealthKit) yalnızca **adım sayınızı** okur: Apple Watch'ta son 7 gün, iPhone ve iPad'de son 12 haftaya kadar.
 - Erişim **salt okunurdur** — uygulama HealthKit'e hiçbir zaman yazmaz.
-- Tüm HealthKit verileri **yalnızca cihazınızda** işlenir. Hiçbir yere aktarılmaz.
-- Bu erişimi istediğiniz zaman **Sağlık uygulaması → Gizlilik → Uygulamalar** (Apple Watch) ayarlarından kontrol edebilirsiniz. Erişimi iptal ederseniz uygulama adımları artık okuyamaz.
+- Tüm HealthKit verileri **yalnızca cihazınızda** işlenir. Bize ya da herhangi bir üçüncü tarafa aktarılmaz.
+- Bu erişimi istediğiniz zaman **Sağlık uygulaması → Gizlilik → Uygulamalar** ayarlarından (iPhone'da veya Apple Watch uygulamasında) kontrol edebilirsiniz. Erişimi iptal ederseniz uygulama adımları artık okuyamaz.
 
 ### Yerel depolama
 
-- Uygulama, son 7 günün adım verisinin bir kopyasını ve günlük hedefinizi, complication'ların HealthKit'i yeniden sormadan görüntüleyebilmesi için uygulamanın yerel deposunda (App Group kapsayıcısı) saklar.
+- Uygulama, yakın adım geçmişinizin bir kopyasını ve günlük hedefinizi, widget ve complication'ların HealthKit'i yeniden sormadan görüntüleyebilmesi için uygulamanın yerel deposunda (App Group kapsayıcısı) saklar.
 - Bu veri cihazınızda kalır ve hiçbir yere gönderilmez.
+
+### iPhone ile Apple Watch arasında eşitleme
+
+- **Günlük hedefiniz**, Apple'ın WatchConnectivity çerçevesiyle doğrudan iPhone'unuz ile eşleşmiş Apple Watch'unuz arasında eşitlenir.
+- Bu aktarım Apple'ın sistem servisleri üzerinden cihazdan cihaza gerçekleşir; bize ait bir sunucu devreye girmez ve adım verisi bu yolla aktarılmaz.
 
 ### Paylaşım
 
